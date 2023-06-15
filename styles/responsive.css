@@ -1,5 +1,5 @@
 
-@media (min-width: 360px) {
+@media (max-width:450px ) {
 
     .header {
         display: none;
