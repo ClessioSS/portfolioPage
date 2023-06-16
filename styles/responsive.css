@@ -79,12 +79,12 @@
         padding: 10px;
         font-size: 0.6rem;
         gap: 8px;
+        height: 135px;
         width: 105px;
-        height: 135px; 
     }
     .container__page-grid__box:hover {
-        height: 115px;
-        width: 135px;
+        height: 145px;
+        width: 115px;
     }
     .container__page-grid__box__img {
         height: 25px;
@@ -101,12 +101,16 @@
     }
 
     .container__page-3__space__input {
-        font-size: 1rem;
+        font-size: 0.7rem;
         width: 200px;
     }
+    .container__page-3__space__input:hover {
+        padding: 24px;
+        width: 190px;
+    }
+    
     .container__page-3__space__input:active {
-        padding: 28px;
-        width: 200px;
+        width: 185px;
     }
 
     .container__page3__content__button {
