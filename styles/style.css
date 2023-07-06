@@ -13,6 +13,10 @@
     --clr-fnt-secondary: #2EB086;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 /*--- Header Menu! ---*/
 .header {
     display: grid;
